@@ -2,6 +2,8 @@
 
 Arcade game - combination of pacman and bomberman for ZX Spectrum 48K, suitable for beginners to experiment with making games for ZX Spectrum.
 
+The game is written in [ZX Basic](https://github.com/boriel/zxbasic), the graphics for the first screen are drawn in [ZX-Paintbrush](https://sourcesolutions.itch.io/zx-paintbrush), the graphics in the game with the help of http://www.amelyn.com/speccy_character_builder/
+
 ![title.png](resources/title.png)
 ![controls.png](resources/controls.png)
 ![firstlevel.png](resources/firstlevel.png)
