@@ -1,0 +1,48 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "level01.tmx": {
+            "scale": 3.45,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 133.62318840579712,
+                "y": 100.57971014492756
+            }
+        },
+        "objects.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 4
+        },
+        "tileset.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 4,
+            "scaleInEditor": 4
+        }
+    },
+    "last.exportedFilePath": "/Users/siarheipiatrouski/Documents/PacBomber/resources",
+    "last.imagePath": "/Users/siarheipiatrouski/Documents/PacBomber/resources/sprites",
+    "map.height": 24,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 31,
+    "openFiles": [
+    ],
+    "project": "levels.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "level01.tmx",
+        "tileset.tsx",
+        "objects.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
